@@ -1,0 +1,17 @@
+{
+  "name": "nodeprojektproba",
+  "version": "1.0.0",
+  "description": "barmi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10"
+  }
+}
