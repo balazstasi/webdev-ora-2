@@ -2,7 +2,6 @@ import React from "react";
 import Counter from "../components/Counter";
 
 /*
-
   1. Csinalj 1-2 gombot, ami kivon a Counterbol (+pont, ha dinamikusan oldod meg)
      - csinalni kell egy masik fuggvenyt, ami kivon
   2. Csinald meg, hogy ne lehessen 0-nal kevesebb a counter valueja 
@@ -15,7 +14,6 @@ import Counter from "../components/Counter";
   tehat: ne legyen az 1-es feladahtoz hasonloan egy
     sub() meg egy add() fuggveny, csak egy darab fg, ami tud kivonni is meg hozzaadni is,
     es ezt hivja meg a + meg - gomb is 
-
 
   4. Csinald meg azt, hogyha a szamlalora magara kattintunk, akkor 0-zza le azt
 */
