@@ -4,6 +4,7 @@
   "description": "barmi",
   "main": "index.js",
   "scripts": {
+  	"semmi": "echo \"semmit se csinalok\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

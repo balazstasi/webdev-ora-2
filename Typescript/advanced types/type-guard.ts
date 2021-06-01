@@ -115,3 +115,5 @@ function moveAnimal(animal: Animal) {
 }
 
 moveAnimal({ type: "bird", flyingSpeed: 100 });
+
+export {};

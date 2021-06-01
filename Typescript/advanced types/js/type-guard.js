@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function addCombinable(a, b) {
     if (typeof a === "number" || typeof b === "number") {
         return a.toString() + b.toString();
